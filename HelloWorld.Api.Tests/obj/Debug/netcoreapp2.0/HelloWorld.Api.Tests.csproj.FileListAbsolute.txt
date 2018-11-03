@@ -1,0 +1,17 @@
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.Tests.deps.json
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.Tests.runtimeconfig.json
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.Tests.runtimeconfig.dev.json
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.Tests.dll
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.dll
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.pdb
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.csprojAssemblyReference.cache
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.csproj.CopyComplete
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Crowe\HelloWorld.Api.Tests\bin\Debug\netcoreapp2.0\HelloWorld.Api.Tests.pdb
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.dll
+C:\Crowe\HelloWorld.Api.Tests\obj\Debug\netcoreapp2.0\HelloWorld.Api.Tests.pdb

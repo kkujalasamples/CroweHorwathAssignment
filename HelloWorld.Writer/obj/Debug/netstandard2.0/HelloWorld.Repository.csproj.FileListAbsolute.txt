@@ -1,0 +1,9 @@
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Repository.deps.json
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Repository.dll
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Repository.pdb
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.csprojAssemblyReference.cache
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.dll
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Repository.pdb

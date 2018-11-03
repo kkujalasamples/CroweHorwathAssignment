@@ -1,0 +1,11 @@
+C:\Crowe\HelloWorld.Api\bin\Debug\netcoreapp2.0\HelloWorld.Api.deps.json
+C:\Crowe\HelloWorld.Api\bin\Debug\netcoreapp2.0\HelloWorld.Api.runtimeconfig.json
+C:\Crowe\HelloWorld.Api\bin\Debug\netcoreapp2.0\HelloWorld.Api.runtimeconfig.dev.json
+C:\Crowe\HelloWorld.Api\bin\Debug\netcoreapp2.0\HelloWorld.Api.dll
+C:\Crowe\HelloWorld.Api\bin\Debug\netcoreapp2.0\HelloWorld.Api.pdb
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.csprojAssemblyReference.cache
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.dll
+C:\Crowe\HelloWorld.Api\obj\Debug\netcoreapp2.0\HelloWorld.Api.pdb

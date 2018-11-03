@@ -1,0 +1,15 @@
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.csprojAssemblyReference.cache
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Client.deps.json
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Client.runtimeconfig.json
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Client.runtimeconfig.dev.json
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Client.dll
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Client.pdb
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.csproj.CopyComplete
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.dll
+C:\Crowe\HelloWorld.Client\obj\Debug\netcoreapp2.0\HelloWorld.Client.pdb
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\appSettings.json
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Writer.dll
+C:\Crowe\HelloWorld.Client\bin\Debug\netcoreapp2.0\HelloWorld.Writer.pdb

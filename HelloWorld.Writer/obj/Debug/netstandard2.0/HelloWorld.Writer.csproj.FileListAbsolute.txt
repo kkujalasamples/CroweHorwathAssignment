@@ -1,0 +1,17 @@
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Writer.deps.json
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Writer.dll
+C:\Crowe\HelloWorld.Repository\bin\Debug\netstandard2.0\HelloWorld.Writer.pdb
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Writer.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Writer.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Writer.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Writer.dll
+C:\Crowe\HelloWorld.Repository\obj\Debug\netstandard2.0\HelloWorld.Writer.pdb
+C:\Crowe\HelloWorld.Writer\bin\Debug\netstandard2.0\HelloWorld.Writer.deps.json
+C:\Crowe\HelloWorld.Writer\bin\Debug\netstandard2.0\HelloWorld.Writer.dll
+C:\Crowe\HelloWorld.Writer\bin\Debug\netstandard2.0\HelloWorld.Writer.pdb
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.csprojAssemblyReference.cache
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.csproj.CoreCompileInputs.cache
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.AssemblyInfoInputs.cache
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.AssemblyInfo.cs
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.dll
+C:\Crowe\HelloWorld.Writer\obj\Debug\netstandard2.0\HelloWorld.Writer.pdb
